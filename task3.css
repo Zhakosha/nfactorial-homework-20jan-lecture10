@@ -1,0 +1,8 @@
+.pane{
+    display: flex;
+    flex-direction: row-reverse;
+ 
+}
+.remove-button{
+    position: absolute;
+}
